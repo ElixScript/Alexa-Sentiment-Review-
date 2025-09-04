@@ -99,7 +99,3 @@ Beberapa library utama:
 * `xgboost`
 * `nltk, emoji`
 * `streamlit, shap (opsional)`
-
----
-Mau saya bikinkan juga **badge tambahan (accuracy, recall, dsb)** biar README lebih keren?
-```
